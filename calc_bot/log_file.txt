@@ -1,0 +1,8 @@
+20:55 User input: (1.5+1.5)*2
+20:55 Solution: {6.0}
+19:53 User input: insert_data
+19:53 Solution: {'insert_data'}
+19:53 User input: show_data
+19:53 Solution: {'show_data'}
+19:54 User input: (1.5+1.5)*2
+19:54 Solution: {6.0}
